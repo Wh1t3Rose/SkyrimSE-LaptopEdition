@@ -1,4 +1,4 @@
-# Pre-Modded Skyrim for Laptops SE Edition ALPHA v1
+# Pre-Modded Skyrim for Laptops SE Edition ALPHA v2
 This project is was created for laptop players to get the best modded experience possible while maintaining good FPS. Desktop Users are welcome but your system most likely will not be taxed running this.
 
 
@@ -78,4 +78,4 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 Lanterns Mod does not run. Eror about Readonly directory.
 
 ## Download
-https://bit.ly/2qsjgKv
+https://bit.ly/2HBzcSg
