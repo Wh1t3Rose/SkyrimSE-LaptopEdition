@@ -42,7 +42,7 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 
 ## Installing Skyrim & Mods
 
-1. Install Skyrim SE to C:\Games\Skyrim - Skyrim - Special Edition (ie SkyrimSE.exe should be C:\Games\Skyrim - Skyrim\SkyrimSE.exe)
+1. Install Skyrim SE to C:\Games\Skyrim - Special Edition (ie SkyrimSE.exe should be C:\Games\Skyrim Special Edition\SkyrimSE.exe)
 
 2. Make sure you on latest patch Version 1.5.39. This is a HARD requirement or some Mods will not work! You can check your Patch Version while paused in game. SKSE is already provided by the mod.
 
