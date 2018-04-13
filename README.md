@@ -71,4 +71,8 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 
 9. Do NOT sort your Mods using LOOT or MO!!!! I have presorted them!
 
-10 Select the Diamond at the top or Click on the drop down and select SKSE and click Run. 
+10 Select the Diamond at the top or Click on the drop down and select SKSE and click Run.
+
+## Known Issues
+
+Lanterns Mod does not run. Eror about Readonly directory.
