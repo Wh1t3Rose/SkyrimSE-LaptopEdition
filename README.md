@@ -76,3 +76,6 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 ## Known Issues
 
 Lanterns Mod does not run. Eror about Readonly directory.
+
+## Download
+https://bit.ly/2qsjgKv
