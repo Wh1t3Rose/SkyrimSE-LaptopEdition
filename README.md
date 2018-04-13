@@ -2,7 +2,7 @@
 This project is was created for laptop players to get the best modded experience possible while maintaining good FPS. Desktop Users are welcome but your system most likely will not be taxed running this.
 
 
-##Minimum System Requirements
+## Minimum System Requirements
 
 OS: Win7 64 bit/Win 10 64bit
 CPU : Intel Core i7 6700HQ
@@ -12,7 +12,7 @@ Graphics Card: DirectX 11 graphics card 3GB VRAM or better(Nvidia GTX 970M/1050 
 Sound Card: DirectX Compatible
 Keyboard and Mouse
 
-##Recommended System Requirements
+## Recommended System Requirements
 
 OS: Win7 64 bit/Win 10 64bit
 Processor: Intel i7 7820HK CPU
@@ -23,12 +23,12 @@ Sound Card: DirectX Compatible
 Keyboard and Mouse
 
 
-##Getting Started
+## Getting Started
 
 These instructions will get you a copy of the Mod up and running. See "Known Issues" notes for known Issues with certain mods.
 
 
-##Installing Skyrim & Mods
+## Installing Skyrim & Mods
 
 1. Install Skyrim SE to C:\Games\Skyrim - Skyrim - Special Edition (ie SkyrimSE.exe should be C:\Games\Skyrim - Skyrim\SkyrimSE.exe)
 
@@ -37,9 +37,9 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 3. Extract the Archive to  C:\Games\Skyrim - Skyrim - Special Edition and say "Yes" when asked to overwrite. If not prompted to overwrite you did NOT extract to the right location.
 
 
-##Getting Mods Ready
+## Getting Mods Ready
 
-###Note: C:\Games\Skyrim - Skyrim - Special Edition will now be shortened as "root"
+### Note: C:\Games\Skyrim - Skyrim - Special Edition will now be shortened as "root"
  
 1. Run BethINI.exe located in root\BethINI-4875-2-7\BethINI\BethINI.exe. ***N2S fix this dumbass structure in next alpha***
 
