@@ -5,21 +5,33 @@ This project is was created for laptop players to get the best modded experience
 ## Minimum System Requirements
 
 OS: Win7 64 bit/Win 10 64bit
+
 CPU : Intel Core i7 6700HQ
+
 Memory: 8GB DDR3 1333MHz
+
 Hard Drive: 60 GB
+
 Graphics Card: DirectX 11 graphics card 3GB VRAM or better(Nvidia GTX 970M/1050 TI)
+
 Sound Card: DirectX Compatible
+
 Keyboard and Mouse
 
 ## Recommended System Requirements
 
 OS: Win7 64 bit/Win 10 64bit
+
 Processor: Intel i7 7820HK CPU
+
 Memory: 16GB DDR4 2666MHz
+
 Hard Drive: 80 GB SSD / m.2 drive
+
 Graphics Card: DirectX 11 graphics card 4GB VRAM or better(Nvidia GTX 980M/1060 Max-Q)
+
 Sound Card: DirectX Compatible
+
 Keyboard and Mouse
 
 
