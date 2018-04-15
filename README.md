@@ -41,21 +41,28 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 
 
 ## Installing Skyrim & Mods
+After you have downloaded the Modpack please follow the instructions below. For simplicity's sake, these instructions were created under the impression that Skyrim was installed on the X drive (X:\Skyrim - Special Edition). This allows you to just extract the modpack rather than reconfigure your ini's.
 
-1. Install Skyrim SE to C:\Games\Skyrim - Special Edition (ie SkyrimSE.exe should be C:\Games\Skyrim Special Edition\SkyrimSE.exe)
+•Normal non-steam installation is recommended for maximum compatibility, no problems / no user error
+
+1: Create a new drive/partition with the assigned letter "X" or SSD users can simply assign a drive the letter X:\
+*Drive Requirement: 60GB or 61440MB
+*New folder path should be X:\Skyrim - Special Edition, if folder paths is not exactly "X:\Skyrim - Special Edition" pack will not function properly!
 
 2. Make sure you on latest patch Version 1.5.39. This is a HARD requirement or some Mods will not work! You can check your Patch Version while paused in game. SKSE is already provided by the mod.
 
-3. Extract the Archive to  C:\Games\Skyrim - Skyrim - Special Edition and say "Yes" when asked to overwrite. If not prompted to overwrite you did NOT extract to the right location.
+3. Copy/extract the contents of the pack to X:\Skyrim - Special Edition (use 7zip for error free operation)n and say "Yes" when asked to overwrite. 
+
+*If not prompted to overwrite you did NOT extract to the right location.
 
 
 ## Getting Mods Ready
 
-### Note: C:\Games\Skyrim - Skyrim - Special Edition will now be shortened as "root"
+### Note: X:Skyrim - Special Edition will now be shortened as "root"
  
-1. Run BethINI.exe located in root\BethINI-4875-2-7\BethINI\BethINI.exe. ***N2S fix this dumbass structure in next alpha***
+1. Run BethINI.exe located in root\BethINI\BethINI.exe.
 
-2. Go to Setup Tab and change the Game Path. Select SkyrimSELauncher. ***I forgot to fix this before packing the mod. Will fix next Alpha.***
+2. Go to Setup Tab and make sure all Paths point to the right folders/executables in X:\Skyrim - Special Edition.
 
 3. Go to Basic Tab. Select your Resolution. Note I haven't tested 1440p & above. 
 
@@ -67,16 +74,17 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 
 7. Make sure the Modded Profile is selected and all 124 Mods are checked.
 
-8. Do NOT sort your Mods using LOOT or MO!!!! I have presorted them!
+8. Do NOT sort your Mods using LOOT or Mod Organizer!!!! I have presorted them!
 
-9. Do NOT sort your Mods using LOOT or MO!!!! I have presorted them!
+9. Do NOT sort your Mods using LOOT or Mod Organizer!!!! I have presorted them!
 
-10 Select the Diamond at the top or Click on the drop down and select SKSE and click Run.
+10. Select the Diamond at the top or Click on the drop down and select SKSE and click Run.
 
 ## Known Issues
 
-Lanterns Mod does not run. Eror about Readonly directory.
-Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
+Lanterns Mod does not run. Error about Readonly directory.
+Shadow/Lighting Issues? Particually for Campfires.
+~~Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
 
 ## Download
 https://bit.ly/2HBzcSg
