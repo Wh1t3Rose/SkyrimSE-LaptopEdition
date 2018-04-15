@@ -85,7 +85,7 @@ After you have downloaded the Modpack please follow the instructions below. For 
 
 Lanterns Mod does not run. Error about Readonly directory.
 Shadow/Lighting Issues? Particually for Campfires.
-~~Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
+~~Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings~~
 
 ## Download
 https://bit.ly/2quJY5p
