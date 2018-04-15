@@ -1,4 +1,4 @@
-# Pre-Modded Skyrim for Laptops SE Edition ALPHA v2
+# Pre-Modded Skyrim for Laptops SE Edition ALPHA v3
 This project is was created for laptop players to get the best modded experience possible while maintaining good FPS. Desktop Users are welcome but your system most likely will not be taxed running this.
 
 
@@ -88,4 +88,4 @@ Shadow/Lighting Issues? Particually for Campfires.
 ~~Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
 
 ## Download
-https://bit.ly/2HBzcSg
+Uploading...
