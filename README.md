@@ -88,4 +88,4 @@ Shadow/Lighting Issues? Particually for Campfires.
 ~~Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
 
 ## Download
-Uploading... Should be done by 8:30 EST. Message me if this message is still here. I might bee sleeping.
+Uploading... Should be done by 8:30 EST. Message me if this message is still here. I might be sleeping.
