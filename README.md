@@ -44,6 +44,7 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 After you have downloaded the Modpack please follow the instructions below. For simplicity's sake, these instructions were created under the impression that Skyrim was installed on the X drive (X:\Skyrim - Special Edition). This allows you to just extract the modpack rather than reconfigure your ini's.
 
 •Normal non-steam installation is recommended for maximum compatibility, no problems / no user error
+•My Mod Pack includes SKSE64. Do NOT Install SKSE64 Yourself. If you did then remove it!
 
 1: Create a new drive/partition with the assigned letter "X" or SSD users can simply assign a drive the letter X:\
 *Drive Requirement: 60GB or 61440MB
