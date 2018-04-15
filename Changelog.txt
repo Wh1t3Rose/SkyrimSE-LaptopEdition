@@ -1,0 +1,27 @@
+Changelog
+Alpha v3
+
+Added Mods
+Audio Overhaul for Skyrim SE (AOS)
+Legacy of the Dragonborn SSE - 1.7GBs
+HD Textures SKY REWORK
+Honed Metal
+Even Better Quest Objectives
+Immersive HUD
+INIGO- Best Follower Mod
+Lockpick graduation
+Lore Weapon Expansion
+Realistic AI Detection 2 Lite
+Silent Sneak Attack
+Simple Auto Unequip Ammo
+Skyrim Sewers
+Sneak Tools
+
+
+Fixes -
+
+Set iMaxDesired to 6000 in SkyrimPrefs.ini for Vivid Weathers Mod
+Fixed Shiny Rocks Issue. Caused by Vivid Weathers Mod. 
+
+Removed - 
+Book Covers of Skyrim - Included in Legacy of the Dragonborn Mod.
