@@ -76,6 +76,7 @@ These instructions will get you a copy of the Mod up and running. See "Known Iss
 ## Known Issues
 
 Lanterns Mod does not run. Eror about Readonly directory.
+Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
 
 ## Download
 https://bit.ly/2HBzcSg
