@@ -77,9 +77,9 @@ After you have downloaded the Modpack please follow the instructions below. For 
 
 8. Do NOT sort your Mods using LOOT or Mod Organizer!!!! I have presorted them!
 
-9. Do NOT sort your Mods using LOOT or Mod Organizer!!!! I have presorted them!
+9. In MO Select Skyrim Launcher in MO. Turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings. Close the Launcher.
 
-10. Select the Diamond at the top or Click on the drop down and select SKSE and click Run.
+10. In MO Select the Diamond at the top or Click on the drop down and select SKSE and click Run.
 
 ## Known Issues
 
