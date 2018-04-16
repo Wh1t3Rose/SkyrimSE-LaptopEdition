@@ -59,7 +59,7 @@ After you have downloaded the Modpack please follow the instructions below. For 
 
 ## Getting Mods Ready
 
-### Note: X:Skyrim - Special Edition will now be shortened as "root"
+### Note: X:\Skyrim - Special Edition will now be shortened as "root"
  
 1. Run BethINI.exe located in root\BethINI\BethINI.exe.
 
