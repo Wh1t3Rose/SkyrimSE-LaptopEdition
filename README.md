@@ -89,5 +89,14 @@ Shadow/Lighting Issues? Particually for Campfires.
 
 Rocks are shiny at night. This is caused by the Vivid Weathers Mod. To Fix turn off "Snow Shaders" in the Skyrim Launcher Advanced Settings
 
+## Follower Locations as Follows:
+
+Sofia - Whiterun Stables. Recommended as first follower. Very funny character. Laying in the hay or laying on the bench.
+Crystal - Healer Trainer: Kynesgrove - Braidwood Inn
+INIGO - probably the best follower mod ever:  Riften Jail. He's next to Sibbi Black-Briar in the first cell on your left.
+Lisya - Sneak Based Standalone Follower: Whiterun - Warmaiden's
+Masha - Whiterun, Hall of the Dead
+Misty Skye - Whiterun The Drunken Huntsman
+
 ## Download
 https://bit.ly/2quJY5p
