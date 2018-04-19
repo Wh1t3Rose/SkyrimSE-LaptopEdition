@@ -83,7 +83,7 @@ After you have downloaded the Modpack please follow the instructions below. For 
 
 ## Known Issues
 
-Lanterns Mod does not run. Error about Readonly directory.
+Lanterns Mod - Error about Readonly directory. Mod does work. Error can be ignored. Caused by SKSE64 being in Alpha stage.
 
 Shadow/Lighting Issues? Particually for Campfires.
 
